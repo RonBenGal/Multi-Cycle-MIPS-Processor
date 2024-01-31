@@ -1,5 +1,5 @@
 # Multi-Cycle MIPS Processor
-## The VHDL design in this repository implements the following MIPS architecture:
+## This project implements the following MIPS architecture:
 ![architecture](https://github.com/RonBenGal/Multi-Cycle-MIPS-Processor/blob/master/MIPS_Architecture.png)
 
 ### The design currently supports these instructions: 
